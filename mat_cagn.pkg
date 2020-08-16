@@ -1,0 +1,9 @@
+v 1.0.0
+d mat_cagn. Solve the problem of "type mismatch" in the command Line `"mat A["mpg",1]=B[3,3]"' or the like
+d Meiting Wang
+d Institute for Economic and Social Research, Jinan University
+d Guangzhou, China
+d wangmeiting92@gmail.com
+
+f mat_cagn.ado
+f mat_cagn.sthlp
